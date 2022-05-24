@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "200139961777",
+    "project_id": "marveltutorial-b2c35",
+    "storage_bucket": "marveltutorial-b2c35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200139961777:android:ac2154a4f03ca525593990",
+        "android_client_info": {
+          "package_name": "com.yaksonn.marveltutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200139961777-uvcso33vc9mm0ifm4jtm28e37ti8cf7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB75uj2hhkCig4KsMjbaRUEhdZHEAdKA1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200139961777-uvcso33vc9mm0ifm4jtm28e37ti8cf7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

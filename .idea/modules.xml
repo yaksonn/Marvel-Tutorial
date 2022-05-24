@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MarvelTutorial.iml" filepath="$PROJECT_DIR$/.idea/modules/MarvelTutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MarvelTutorial.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MarvelTutorial.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MarvelTutorial.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/MarvelTutorial.buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/MarvelTutorial.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/MarvelTutorial.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/MarvelTutorial.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/MarvelTutorial.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/remote/MarvelTutorial.remote.iml" filepath="$PROJECT_DIR$/.idea/modules/remote/MarvelTutorial.remote.iml" />
+    </modules>
+  </component>
+</project>

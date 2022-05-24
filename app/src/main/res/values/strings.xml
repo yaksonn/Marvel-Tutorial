@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Marvel tutorial</string>
+    <string name="characters">Characters</string>
+    <string name="list_empty">Result not found.</string>
+    <string name="comics">Comics</string>
+
+    <string name="reload">Reload</string>
+    <string name="not_reload">"Results couldn't be loaded"</string>
+</resources>
